@@ -71,7 +71,11 @@ def adding_matz
 
 	programmer_hash =
  		{
-        :grace_hopper => {
+				:yukihiro_mastumoto => {
+				:known_for => "Ruby",
+				:languages => ["LISP", "C"]
+			},
+				:grace_hopper => {
           :known_for => "COBOL",
           :languages => ["COBOL", "FORTRAN"]
         },
