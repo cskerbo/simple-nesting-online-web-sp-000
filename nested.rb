@@ -89,7 +89,7 @@ def adding_matz
         }
      }
 
-return programmer_hash[0]
+return programmer_hash[:yukihiro_mastumoto][0]
 end
 
 def changing_alan
